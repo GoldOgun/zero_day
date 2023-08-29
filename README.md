@@ -1,1 +1,1 @@
-*README content*
+README
